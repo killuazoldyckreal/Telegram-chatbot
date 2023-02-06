@@ -7,14 +7,15 @@ Telegram bot with some awesome commands
 To install the required library, you can just run the following command:
 
 ```sh
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
+
 ## Usage
 > create a file and rename it to `.env` and add your telegram bot token and openai token inside it like this:
 
 ```
-Token = "Your Telegram bot token"
-otoken = "Your openai API key"
+Token = "Your Telegram bot token here"
+otoken = "Your openai API key here"
 ```
 
 ## Available Commands
